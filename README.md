@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/rolfolesandholmdemo/DevOps%20Practitioner%20week%203/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/rolfolesandholmdemo/DevOps%20Practitioner%20week%203/_build/latest?definitionId=12&branchName=main)
 
 # Contributing
 
